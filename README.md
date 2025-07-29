@@ -92,3 +92,8 @@ The system operates on a simple bracket-style tournament format where players pa
 - **Community Forum**: Discord/Telegram for player and developer support
 - **Bug Bounty**: Security reward program for vulnerability reporting
 - **Developer Resources**: SDK and integration guides for game developers
+
+
+##Contract Details :0x739b2e5e6Ed14cB22Fc749c134495a738849f719
+
+<img width="1156" height="868" alt="image" src="https://github.com/user-attachments/assets/0ba9597d-c566-42eb-807b-ac124ad4471d" />
